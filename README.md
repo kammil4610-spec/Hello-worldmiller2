@@ -7,3 +7,5 @@ I love doing lashes
 - 
 - 🎯 ** Current Focus:** Learning Git, GitHub, and [Language e.g.,Python/HTML]
 - -⚡️**Fun Fact:** [I Love dying my hair]
+## ⚒️ Tools I want to learn 
+More about programming 
